@@ -1,0 +1,6 @@
+[submodule "inventory_management"]
+	path = inventory_management
+	url = https://github.com/yejui626/inventory_management
+[submodule "inventory_frontend"]
+	path = inventory_frontend
+	url = https://github.com/yejui626/inventory_frontend
